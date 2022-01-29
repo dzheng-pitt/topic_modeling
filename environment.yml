@@ -1,0 +1,9 @@
+name: topic_modeling
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - nltk
+  - scipy
+  - matplotlib
+prefix: C:\Users\User\anaconda3\envs\topic_modeling
